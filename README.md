@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>hello</h1>
+<center><h1>hello</h1></center></center>
 
 <!--
 **ronydominic/ronydominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

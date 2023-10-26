@@ -1,9 +1,7 @@
 
 <html>
   <head>
-    <title>
-      Rony Dominic
-    </title>
+    Rony Dominic
   </head>
   <body>
   <h1><center>

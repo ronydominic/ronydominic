@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
   <head>
     <title>
@@ -7,7 +7,7 @@
   </head>
   <body>
   <h1><center>
-    Hi Dominic here
+    Hi Rony Dominic here
     </center>
   </h1>
   <hr>

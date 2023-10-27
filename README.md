@@ -3,9 +3,9 @@
   <head>
     Rony Dominic
   </head>
-  <body style="background-color:yellow;">
+  <body >
   <h1><center>
-    Hi Rony Dominic here
+    Hi <i>Rony Dominic here</i>
     </center>
   </h1>
   <hr>

@@ -3,7 +3,7 @@
   <head>
     Rony Dominic
   </head>
-  <body>
+  <body style="background-color:purple;">
   <h1><center>
     Hi Rony Dominic here
     </center>
